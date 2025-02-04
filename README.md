@@ -83,7 +83,9 @@ Kamper is a web application for discovering and booking campsites, as well as re
 
 ### Praneesh
     + Interfaces:
-
+        Equipment Page
+        Equipment Booking Page
+        Equipment Widget
     + Features:
 
     + Other:
